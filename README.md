@@ -1,2 +1,2 @@
 # Portfolio
-This contains few projects I completed as a Digital Marrketer.
+This contains a few projects I completed as a Digital Marketer.
