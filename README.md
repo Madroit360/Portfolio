@@ -1,5 +1,9 @@
-# Priyanka Singh
-This contains a few projects I completed as a Digital Marketer.
+# Priyanka Singh- Digital Marketer
+I am a Marketing Graduate from Cardiff Metropolitan University with more than 7 years of experience
+in Website Designing, Social Media Marketing, Content Writing,
+and Email Marketing.
+
+
 
 ## Project 1: Digital Marketing for an Education Consultant Firm  
 
