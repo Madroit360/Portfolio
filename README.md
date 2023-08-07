@@ -1,7 +1,7 @@
-# My Portfolio
+# Priyanka Singh
 This contains a few projects I completed as a Digital Marketer.
 
-## Project 1: Digital Marketing for an Education Consultant Firm 
+## Project 1: Digital Marketing for an Education Consultant Firm  
 
 ### Problem Statement: The firm helps students to choose the right course for their education outside of India. The firm was only working on Word-of-mouth Marketing and now wanted to explore other avenues of marketing to recruit more students.
 
