@@ -36,7 +36,7 @@ and Email Marketing.
 2. The website traction increased and hence helped in SEO. This made the firm's website come on the first page of SERP.
 3. The social handles visibility increased by 200%
 
-### Project 3: Digital Marketing for a Finance Company
+## Project 3: Digital Marketing for a Finance Company
 
 ### Problem Statement: The company helps start-ups to launch their business. From finding the investors for the start-ups to listing them on Stock Exchange, it was the responsibility of this Finance Company. 
 
@@ -52,7 +52,7 @@ and Email Marketing.
 2. The website traction increased and hence helped in SEO. This made the firm's website come on the first page of SERP.
 3. The social handles visibility increased by 40%
 
-### Project 4: Marketing Consultancy for an Advocate
+## Project 4: Marketing Consultancy for an Advocate
 
 ### Problem Statement: The Advocate wanted to increase his face value and get more recognition. 
 
@@ -66,7 +66,7 @@ and Email Marketing.
 ### The Result: 
 The client now has more than 1k followers on Insta
   
-### Project 5: Website for a Boutique Bakery and Marketing Consultancy
+## Project 5: Website for a Boutique Bakery and Marketing Consultancy
 
 ### Problem Statement: The bakery has a limitation in terms of delivering baked goods. Hence, they wanted a website that can work as a catalog. The client didn't need a domain name. They wanted a free Wix website.
 
