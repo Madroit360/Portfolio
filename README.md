@@ -11,7 +11,7 @@ and Email Marketing.
 
 ### Action Taken: 
 1. I started with a basic check of online presence and then moved ahead with outlining of the new website and adding the relevant keywords for SEO.
-2. 2. To add brand value, I created a new Logo and finalized the brand colors.
+2. To add brand value, I created a new Logo and finalized the brand colors.
 3. I made a buyer persona and then created social media handles like FB, Insta, LinkedIn, and Youtube.
 4. I did the required research to start generating content for social media pages.
 
@@ -78,3 +78,4 @@ The client now has more than 1k followers on Insta
 ### The Result:
 The Client got satisfied and now wanted to explore Whatsapp Business Catalog.
 
+# Contact Details: marketingadroit360@gmailcom
